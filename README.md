@@ -1,160 +1,171 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C9A7&height=190&section=header&text=RAMU.EXE&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Backend%20%2F%20Applied%20AI%20%2F%20Full-Stack%20Builder&descAlignY=61&descSize=17" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=00C9A7&center=true&vCenter=true&width=650&lines=I+turn+%22what+if%22+into+repositories.;I+debug+across+services%2C+not+just+stack+traces.;AI+writes+suggestions.+I+check+the+diff." alt="Typing introduction" />
+  <img src="./assets/ramu-banner.svg" width="100%" alt="Ramu.exe: Backend systems, applied AI and real-time products" />
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/r7mu"><img src="https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ramu7maddirala@gmail.com"><img src="https://img.shields.io/badge/SEND_A_SIGNAL-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Ramu-9?tab=repositories"><img src="https://img.shields.io/badge/OPEN_THE_LAB-Repositories-20232A?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/r7mu"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ramu7maddirala@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Ramu-9"><img src="https://img.shields.io/badge/GitHub-You're_here-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</div>
-
----
-
-## whoami
-
-<pre>
-Name       : Ramu Maddirala
-Currently  : Computer Science @ BITS Pilani (2028)
-I build    : Backend systems, AI-powered products, real-time applications
-I enjoy    : Ambiguous problems, clean APIs, stubborn bugs, useful software
-I avoid    : "It works on my machine" as a deployment strategy
-</pre>
-
-I'm a builder who likes taking a messy idea, figuring out what the actual problem is, and turning it into software people can use. I work across backend, full-stack and applied AI, with a particular interest in systems that need to stay reliable when things get weird.
-
-- 🧠 1,600+ DSA problems solved on InterviewBit
-- 🧪 I use AI as a pair programmer, not as the person approving the PR
-- 🛠️ Main tools: Java, Python, TypeScript, React, Spring Boot, Node.js and FastAPI
-- 🎯 Currently interested in backend engineering, AI agents, integrations and real-time systems
-
-> **Personal engineering loop:** Build → Break → Read logs → Fix → Add a test → Accidentally find another edge case.
-
----
-
-## 🧰 The projects I'm most likely to talk about
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="58%" valign="top">
 
-### 🌉 SETU.ai
-**The voice pipeline that refused to stay simple.**
+### 👋 So, who is Ramu?
 
-A multilingual, real-time voice coordination prototype connecting browser audio, speech services, AI reasoning and backend orchestration.
+Computer Science undergrad at **BITS Pilani (2028)**. I like building software with moving parts: backend systems, AI-powered products, real-time pipelines, and the occasional bug that clearly has a personal grudge.
 
-- 7-language speech workflow
-- React 19 + TypeScript
-- Node.js WebSocket gateway
-- Python FastAPI + asyncio
-- Silero VAD + ONNX Runtime WebAssembly
-- Gemini structured reasoning
-- PostgreSQL + PostGIS
-- Deterministic fallbacks, deduplication and audit events
+I usually start with a question, end up drawing boxes and arrows, and somehow there's a repository at the end.
 
-<a href="https://github.com/Ramu-9/Sethu"><img src="https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github" /></a>
-<a href="https://ais-pre-3gbhjctjktnswx6fxkrs7c-123461625038.asia-east1.run.app"><img src="https://img.shields.io/badge/Live-Preview-00C9A7?style=for-the-badge&logo=googlecloud" /></a>
-
-<sub>Prototype only. Not connected to India's official 112 service; all dispatch resources and ETAs are simulated.</sub>
+**Currently interested in:** applied AI, backend engineering, agentic workflows, distributed systems and developer tools.
 
 </td>
-<td width="50%" valign="top">
+<td width="42%" valign="top">
 
-### 🛒 SmartKart
-**Shopping by goal, not by memorising SKU names.**
+### 🖥️ Current status
 
-An AI-powered commerce platform that turns natural-language needs and budgets into editable product bundles.
-
-- React 19 + Node.js + Express 5
-- MongoDB + Mongoose
-- Gemini structured outputs
-- Deterministic recommendation fallback
-- User-approved cart changes
-- Purchase checks and contextual cross-sell
-- Discount rules enforced server-side
-- Razorpay HMAC verification + replay protection
-
-<a href="https://github.com/Ramu-9/SmartKart"><img src="https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github" /></a>
-<a href="https://smartkart-ai.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-00C9A7?style=for-the-badge&logo=vercel" /></a>
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### 🏏 PitchIQ
-**Cricket analytics, with 10,000 alternate timelines per match state.**
-
-A cricket analytics platform using a Java 21 Monte Carlo simulation engine, Spring Boot APIs and AI commentary grounded in deterministic simulation results.
-
-- Java 21 + Spring Boot + Spring Data JPA
-- 10,000 Monte Carlo iterations per match state
-- TreeMap / NavigableMap weighted sampling
-- Match data integration
-- CSV probability-calibration pipeline
-- Gemini commentary bounded by simulation outputs
-
-<a href="https://github.com/Ramu-9/PitchIQ"><img src="https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github" /></a>
-<a href="https://pitchiq-ai.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-00C9A7?style=for-the-badge&logo=vercel" /></a>
+```text
+BUILD MODE      : ON
+BUG HUNTING     : ON
+AI TRUST LEVEL  : "SHOW ME THE TEST"
+COFFEE          : COMPILING...
+DSA             : 1,600+ solved
+LOCATION        : India
+```
 
 </td>
 </tr>
 </table>
 
----
-
-## 🧪 My toolbox
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,spring,fastapi,postgres,mongodb,mysql,docker,git,github,linux" alt="Languages and tools" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/AI-Gemini%20%7C%20LLM%20Integrations-8E75B2?style=flat-square" />
-<img src="https://img.shields.io/badge/Realtime-WebSockets-0A7EA4?style=flat-square" />
-<img src="https://img.shields.io/badge/Data-PostGIS%20%7C%20SQL-336791?style=flat-square" />
-<img src="https://img.shields.io/badge/Security-JWT%20%7C%20HMAC--SHA256-2E8B57?style=flat-square" />
-</p>
+> **My default rule:** AI can make a suggestion. Code, tests and evidence decide what ships.
 
 ---
 
-## 📈 The GitHub greenhouse
+## 🧪 The things I've brought to life
+
+Not tutorial clones. Not 47 weather apps. Three projects where I got to wrestle with very different engineering problems.
+
+<details open>
+<summary><h3>🌉 SETU.ai — The real-time voice coordination experiment</h3></summary>
+
+**A multilingual voice workflow where timing, context and reliability all matter.**
+
+I wanted to explore what happens when a voice interface has to deal with interruptions, changing information and multiple services working together.
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ramu-9&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramu-9&layout=compact&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Ramu-9&theme=tokyonight&hide_border=true" />
+
+`Browser Audio` → `VAD` → `Streaming STT` → `AI Reasoning` → `Deterministic Orchestration` → `Streaming TTS`
+
 </div>
 
----
+- 7-language voice workflow with streaming speech services
+- React 19 + TypeScript frontend, Node.js WebSocket gateway, Python FastAPI/asyncio backend
+- Silero VAD running through ONNX Runtime WebAssembly
+- 1.5-second audio pre-roll, interruption handling and request deduplication
+- Gemini structured reasoning with deterministic fallback paths
+- PostgreSQL + PostGIS, provenance-aware facts and append-only audit events
 
-## 🧠 Strong opinions, loosely held
+**The part I enjoyed most:** making the AI useful without giving it unchecked control over critical decisions.
 
-- A successful API response doesn't mean the business operation succeeded.
-- If an LLM suggests something, validation still has a job.
-- Logs are a conversation. Sometimes a very passive-aggressive one.
-- The best feature is the one that solves the user's problem without making them learn your architecture.
+<p>
+  <a href="https://github.com/Ramu-9/Sethu"><img src="https://img.shields.io/badge/READ_THE_CODE-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://ais-pre-3gbhjctjktnswx6fxkrs7c-123461625038.asia-east1.run.app"><img src="https://img.shields.io/badge/TRY_THE_PREVIEW-0B806B?style=for-the-badge&logo=googlecloud&logoColor=white" /></a>
+</p>
 
-### Current status
+<sub>Important: SETU.ai is a prototype, not connected to India's official 112 service. All fleet resources, assignments, routes and ETAs are simulated.</sub>
 
-<pre>
-$ ramu --status
-building      : yes
-debugging     : probably
-overthinking  : within acceptable limits
-coffee        : required
-</pre>
+</details>
+
+<details open>
+<summary><h3>🛒 SmartKart — Shopping by intent, not SKU memorisation</h3></summary>
+
+**Tell the store what you're trying to do. Let it help assemble the plan.**
+
+SmartKart turns a natural-language goal and budget into an editable product bundle, then helps the user evaluate purchases before checkout.
 
 <div align="center">
 
-**Have an interesting problem? I'm probably already thinking about how I'd build it.**
+`Shopping Goal` → `AI Bundle Proposal` → `User Approval` → `Purchase Check` → `Secure Checkout`
 
-<a href="mailto:ramu7maddirala@gmail.com">ramu7maddirala@gmail.com</a>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C9A7&height=100&section=footer" width="100%" />
+- React 19, Node.js, Express 5, MongoDB and Mongoose
+- Gemini structured outputs backed by a deterministic recommendation engine
+- Product IDs, stock and business rules validated server-side
+- Suggestions stay separate from the persisted cart until the user approves them
+- Contextual cross-selling and discounts capped at 15%
+- Razorpay workflow with server-side HMAC-SHA256 verification and replay protection
+
+**The part I enjoyed most:** making the AI negotiate, recommend and assist without letting it rewrite the rules of the store.
+
+<p>
+  <a href="https://github.com/Ramu-9/SmartKart"><img src="https://img.shields.io/badge/READ_THE_CODE-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://smartkart-ai.vercel.app"><img src="https://img.shields.io/badge/OPEN_THE_STORE-0B806B?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+</details>
+
+<details open>
+<summary><h3>🏏 PitchIQ — Cricket, but make it probability</h3></summary>
+
+**What if every match state could be explored through 10,000 possible futures?**
+
+PitchIQ is a cricket analytics platform built around a Java simulation engine. It runs 10,000 Monte Carlo iterations per match state and turns the resulting numbers into contextual insights.
+
+- Java 21 simulation engine, Spring Boot APIs and Spring Data JPA
+- TreeMap / NavigableMap weighted sampling in O(log N)
+- Match-data integration and CSV probability-calibration pipeline
+- Gemini commentary grounded in deterministic simulation outputs
+
+**The part I enjoyed most:** keeping the maths in charge and the AI in the commentary box.
+
+<p>
+  <a href="https://github.com/Ramu-9/PitchIQ"><img src="https://img.shields.io/badge/READ_THE_CODE-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://pitchiq-ai.vercel.app"><img src="https://img.shields.io/badge/WATCH_A_MATCH-0B806B?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+</details>
+
+---
+
+## 🧰 My workshop
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,spring,fastapi,postgres,mongodb,mysql,docker,git,github,linux" alt="Technology icons" />
+</div>
+
+| Area | Tools I have used |
+|---|---|
+| Languages | Java, Python, JavaScript, TypeScript, SQL |
+| Backend | Spring Boot, Node.js, Express, FastAPI, REST APIs, WebSockets |
+| Frontend | React, Vite, Tailwind CSS, Web Audio API |
+| Data | PostgreSQL, PostGIS, MongoDB, MySQL |
+| AI & systems | Gemini API, structured outputs, deterministic fallbacks, ONNX Runtime WebAssembly |
+| Security & tooling | JWT, HMAC-SHA256, Git, Docker, Maven, Postman |
+
+---
+
+## 🧠 A few opinions from the bug battlefield
+
+- A green response code is not proof the workflow succeeded.
+- If the model says “done”, I still want the receipt.
+- The most interesting bugs live between services. They enjoy the rent-free space.
+- Good abstractions make change easier. Bad abstractions make simple changes feel like archaeology.
+- I like AI-assisted development. I also like reading the code it writes.
+
+---
+
+<div align="center">
+
+### Have a hard problem, a weird edge case, or something worth building?
+
+**I'm listening.**
+
+<a href="mailto:ramu7maddirala@gmail.com">ramu7maddirala@gmail.com</a> · <a href="https://www.linkedin.com/in/r7mu">LinkedIn</a>
+
+<br/>
+
+<sub>Made with curiosity, stubborn debugging, and an unreasonable number of README edits.</sub>
 
 </div>
