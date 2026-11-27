@@ -1,38 +1,14 @@
-<svg aria-label="Case file 2, SmartKart. The intern said give them 50 percent off. The server capped the discount at 15 percent." role="img" viewBox="0 0 900 480" xmlns="http://www.w3.org/2000/svg">
- <title>Case file 2, SmartKart. The intern said give them 50 percent off. The server capped the discount at 15 percent.</title>
- <style>.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
-.s{font-family:Georgia,"Times New Roman",serif}
-.i{font-style:italic}.b{font-weight:700}
-.st{transform-origin:0 0;animation:slam .6s cubic-bezier(.2,.9,.3,1) .6s both}
-@keyframes slam{0%{opacity:0;transform:scale(2.6)}65%{opacity:1;transform:scale(.93)}100%{opacity:1;transform:scale(1)}}
-.strike{stroke-dasharray:1;animation:draw .5s ease-out 1.3s both}
-.ck{stroke-dasharray:1;animation:draw .45s ease-out both}
-@keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
-@media (prefers-reduced-motion:reduce){*{animation:none!important}}
-.fill{transform-box:fill-box;transform-origin:0 50%;animation:meter 7s ease-in-out infinite}@keyframes meter{0%{transform:scaleX(0);fill:#C62F2F}35%{transform:scaleX(3.333);fill:#C62F2F}52%{transform:scaleX(3.333);fill:#C62F2F}68%{transform:scaleX(1);fill:#0F766E}100%{transform:scaleX(1);fill:#0F766E}}.ask{animation:ask 7s infinite}.got{animation:got 7s infinite}@keyframes ask{0%{opacity:0}8%,52%{opacity:1}60%,100%{opacity:0}}@keyframes got{0%,60%{opacity:0}70%,100%{opacity:1}}</style>
- <rect x="3" y="3" width="894" height="474" rx="18" fill="#F7F1E3" stroke="#1E1B2E" stroke-width="4"/>
- <rect x="380" width="140" height="22" rx="9" fill="#1E1B2E"/>
- <text class="m b" x="40" y="62" fill="#1E1B2E" font-size="22" letter-spacing="2">CASE FILE 02 Â· SMARTKART</text>
- <text class="m" x="860" y="62" fill="#6F6A5A" font-size="19" text-anchor="end">React 19 Â· Express 5 Â· MongoDB</text>
- <line x1="40" x2="860" y1="82" y2="82" stroke="#1E1B2E" stroke-dasharray="6 6" stroke-width="2"/>
- <text class="m b" x="40" y="130" fill="#6F6A5A" font-size="18" letter-spacing="3">THE INTERN SAID</text>
- <text class="s i" x="40" y="186" fill="#1E1B2E" font-size="40">â€œGive them 50% off.</text>
- <text class="s i" x="40" y="234" fill="#1E1B2E" font-size="40">They seem nice.â€</text>
- <g transform="translate(715 190)">
-  <g class="st" style="animation-delay:0.9s">
-   <g transform="rotate(7)">
-    <rect x="-120" y="-34" width="240" height="68" rx="8" fill="#F7F1E3" fill-opacity=".6" stroke="#C62F2F" stroke-width="6"/>
-    <text class="m b" y="13.3" fill="#C62F2F" font-size="38" letter-spacing="3" text-anchor="middle">CAPPED</text>
-   </g>
-  </g>
- </g>
- <text class="m b" x="40" y="314" fill="#6F6A5A" font-size="18" letter-spacing="3">DISCOUNT ACTUALLY GRANTED</text>
- <text class="m b ask" x="860" y="316" fill="#C62F2F" font-size="25" opacity="0" text-anchor="end">ASK: 50%</text>
- <text class="m b got" x="860" y="316" fill="#0F766E" font-size="25" text-anchor="end">GRANTED: 15%</text>
- <rect x="40" y="334" width="820" height="54" rx="10" fill="#E7DFCB" stroke="#1E1B2E" stroke-width="3"/>
- <rect class="fill" x="40" y="334" width="246" height="54" rx="10" fill="#0F766E"/>
- <line x1="286" x2="286" y1="322" y2="402" stroke="#1E1B2E" stroke-width="4"/>
- <text class="m b" x="286" y="432" fill="#1E1B2E" font-size="21">15% hard cap, enforced by the server</text>
- <text class="m" x="40" y="464" fill="#6F6A5A" font-size="18">0%</text>
- <text class="m" x="860" y="464" fill="#6F6A5A" font-size="18" text-anchor="end">50% (the ask)</text>
-</svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="900" height="480" role="img" aria-label="Case file 2, SmartKart. The intern said give them 50 percent off. The server capped the discount at 15 percent." xmlns:c2pa="http://c2pa.org/manifest">
+<title>Case file 2, SmartKart. The intern said give them 50 percent off. The server capped the discount at 15 percent.</title>
+<style>
+.m{font-family:ui-monospace,SFMono-Regula‹Y[›ËÛÛœÛÛ\Ë“X™\˜][Ûˆ[Û›È‹[Û›ÜÜXÙ_B‹œŞÙ›ÛY˜[Z[N‘Ù[Ü™ÚXK•[Y\È™]È›ÛX[ˆ‹Ù\šYŸB‹š^Ù›Û\İ[Nš][XßK˜Ù›Û]ÙZYÚÌB‹œİİ˜[œÙ›Ü›K[ÜšYÚ[ŒØ[š[X][ÛœÛ[HœÈİXšXËX™^šY\ŠŒ‹KŒËJHœÈ›İBÙ^Yœ˜[Y\ÈÛ[^Ì	^ÛÜXÚ]NŒİ˜[œÙ›Ü›NœØØ[J‹Š_MI^ÛÜXÚ]NŒNİ˜[œÙ›Ü›NœØØ[JLÊ_LL	^ÛÜXÚ]NŒNİ˜[œÙ›Ü›NœØØ[JJ__B‹œİšZÙ^Üİ›ÚÙKY\Ú\œ˜^NŒNØ[š[X][Û™˜]È\ÈX\ÙK[İ]KŒÜÈ›İB‹˜ÚŞÜİ›ÚÙKY\Ú\œ˜^NŒNØ[š[X][Û™˜]È\ÈX\ÙK[İ]›İBÙ^Yœ˜[Y\È˜]ŞÙœ›Û^Üİ›ÚÙKY\ÚÙ™œÙ]Œ_]ŞÜİ›ÚÙKY\ÚÙ™œÙ]Œ_BYYXH
+™Y™\œË\™YXÙY[[İ[Ûœ™YXÙJ^ÊØ[š[X][Û››Û™HZ[\Ü[_B‹™š[İ˜[œÙ›Ü›KX›Ş™š[X›Şİ˜[œÙ›Ü›K[ÜšYÚ[ŒL	NØ[š[X][Û›Y]\ˆÜÈX\ÙKZ[‹[İ][™š[š]_PÙ^Yœ˜[Y\ÈY]\Ì	^İ˜[œÙ›Ü›NœØØ[V
+
+NÙš[ˆĞÍŒ‘Œ‘ŸLÍI^İ˜[œÙ›Ü›NœØØ[V
+ËŒÌÌÊNÙš[ˆĞÍŒ‘Œ‘ŸML‰^İ˜[œÙ›Ü›NœØØ[V
+ËŒÌÌÊNÙš[ˆĞÍŒ‘Œ‘ŸM	^İ˜[œÙ›Ü›NœØØ[V
+JNÙš[ˆÌÍ‘_LL	^İ˜[œÙ›Ü›NœØØ[V
+JNÙš[ˆÌÍ‘__K˜\ÚŞØ[š[X][Û˜\ÚÈÜÈ[™š[š]_K™ÛİØ[š[X][Û™ÛİÜÈ[™š[š]_PÙ^Yœ˜[Y\È\ÚŞÌ	^ÛÜXÚ]NŒN	KL‰^ÛÜXÚ]NŒ_MŒ	KL	^ÛÜXÚ]NŒ_PÙ^Yœ˜[Y\ÈÛİÌ	KŒ	^ÛÜXÚ]NŒMÌ	KL	^ÛÜXÚ]NŒ__OÜİ[O‚™XİHŒÈˆOHŒÈˆÚYHMˆZYÚHÍˆHŒNˆš[HˆÑÑŒQLÈˆİ›ÚÙOHˆÌQLPŒ‘Hˆİ›ÚÙK]ÚYH‹Ï‚™XİHŒÎŒˆOHŒˆÚYHŒMˆZYÚHŒŒˆˆHHˆš[HˆÌQLPŒ‘H‹Ï‚^Û\ÜÏH›HˆˆHˆOHŒˆˆ›Û\Ú^™OHŒŒˆˆš[HˆÌQLPŒ‘Hˆ]\‹\ÜXÚ[™ÏHŒˆĞTÑH’SHˆ0­ÈÓPT•ĞT•İ^^Û\ÜÏH›HˆHŒˆOHŒˆˆ^X[˜ÚÜH™[™ˆ›Û\Ú^™OHŒNHˆš[HˆÍ‘MPH”™XXİNH0­È^™\ÜÈH0­È[Û™ÛÑİ^[™HOHˆLOHˆˆHŒˆLHˆˆİ›ÚÙOHˆÌQLPŒ‘Hˆİ›ÚÙK]ÚYHŒˆˆİ›ÚÙKY\Ú\œ˜^OHˆˆ‹Ï^Û\ÜÏH›HˆˆHˆOHŒLÌˆ^X[˜ÚÜHœİ\ˆ›Û\Ú^™OHŒNˆš[HˆÍ‘MPHˆ]\‹\ÜXÚ[™ÏHŒÈ•HS•T“ˆĞRQİ^^Û\ÜÏHœÈHˆHˆOHŒNˆˆ›Û\Ú^™OHˆš[HˆÌQLPŒ‘H¸ 'Ú]™H[HL	HÙ™‹İ^^Û\ÜÏHœÈHˆHˆOHŒŒÍˆ›Û\Ú^™OHˆš[HˆÌQLPŒ‘H•^HÙY[HšXÙK¸ 'Oİ^È˜[œÙ›Ü›OH˜[œÛ]JÌMHNL
+HÈÛ\ÜÏHœİˆİ[OH˜[š[X][Û‹Y[^NŒ\ÈÈ˜[œÙ›Ü›OHœ›İ]JÊH™XİH‹LLŒŒˆOH‹LÍŒˆÚYHŒˆZYÚHˆHˆš[HˆÑÑŒQLÈˆš[[ÜXÚ]OH‹ˆˆİ›ÚÙOHˆĞÍŒ‘Œ‘ˆˆİ›ÚÙK]ÚYHˆ‹Ï^Û\ÜÏH›HˆˆHŒˆOHŒLËŒÈˆ^X[˜ÚÜH›ZYHˆ›Û\Ú^™OHŒÎˆš[HˆĞÍŒ‘Œ‘ˆˆ]\‹\ÜXÚ[™ÏHŒÈĞTQİ^ÙÏÙÏÙÏ^Û\ÜÏH›HˆˆHˆOHŒÌMˆ^X[˜ÚÜHœİ\ˆ›Û\Ú^™OHŒNˆš[HˆÍ‘MPHˆ]\‹\ÜXÚ[™ÏHŒÈ‘TĞÓÕS•PÕPSHÔS•Qİ^^Û\ÜÏH›Hˆ\ÚÈˆHŒˆOHŒÌMˆˆ^X[˜ÚÜH™[™ˆ›Û\Ú^™OHŒHˆš[HˆĞÍŒ‘Œ‘ˆˆÜXÚ]OHŒTÒÎˆL	Oİ^^Û\ÜÏH›HˆÛİˆHŒˆOHŒÌMˆˆ^X[˜ÚÜH™[™ˆ›Û\Ú^™OHŒHˆš[HˆÌÍ‘H‘ÔS•QˆMIOİ^™XİHˆOHŒÌÍˆÚYHŒˆZYÚHMˆHŒLˆš[HˆÑMÑĞˆˆİ›ÚÙOHˆÌQLPŒ‘Hˆİ›ÚÙK]ÚYHŒÈ‹Ï™XİÛ\ÜÏH™š[ˆHˆOHŒÌÍˆÚYHŒˆˆZYÚHMˆHŒLˆš[HˆÌÍ‘H‹Ï[™HOHŒˆˆLOHŒÌŒˆˆHŒˆˆLHˆˆİ›ÚÙOHˆÌQLPŒ‘Hˆİ›ÚÙK]ÚYH‹Ï^Û\ÜÏH›HˆˆHŒˆˆOHÌˆˆ›Û\Ú^™OHŒŒHˆš[HˆÌQLPŒ‘HŒMIH\™Ø\[™›Ü˜ÙYHHÙ\™\İ^^Û\ÜÏH›HˆHˆOHˆ›Û\Ú^™OHŒNˆš[HˆÍ‘MPHŒ	Oİ^^Û\ÜÏH›HˆHŒˆOHˆ^X[˜ÚÜH™[™ˆ›Û\Ú^™OHŒNˆš[HˆÍ‘MPHL	H
+H\ÚÊOİ^‚Üİ™Ï‚
