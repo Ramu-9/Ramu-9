@@ -1,147 +1,110 @@
-<h1 align="center">Hi 👋, I'm Ramu Maddirala </h1>
-<h3 align="center">Software Engineering Student • Full-Stack Developer • AI Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-Building production-grade software, one project at a time. 🚀
-</p>
+# Hey, I'm Ramu 👋
 
----
+### I build things that do things. Then I make sure they don't do weird things.
 
-# 💫 About Me
+**Computer Science @ BITS Pilani · Backend Engineering · Applied AI · Full-Stack**
 
-I'm a **Software Engineering student** passionate about building **production-grade software** and **AI-powered applications**.
+*Currently teaching software to be useful, reliable, and slightly less dramatic.*
 
-I enjoy taking ideas from concept to deployment by designing scalable architectures, developing full-stack applications, and integrating AI into real-world solutions. Rather than collecting many small projects, I prefer going deep on complex systems that strengthen my understanding of software engineering.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/r7mu)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ramu7maddirala@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat&logo=github)](https://github.com/Ramu-9)
 
-- 🚀 Currently exploring **AI Agents • Full-Stack Development • Backend Engineering • System Design**
-- 💻 Primary Stack: **Java • Python • JavaScript • TypeScript • React • Spring Boot • SQL • Linux**
-- 🌱 Learning by building real-world software
-- 🎯 Goal: Build products that solve meaningful problems at scale
-
-> 💡 **"I don't collect projects—I collect lessons from building them."**
+</div>
 
 ---
 
-# 🌐 Connect With Me
+## A little about me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/r7mu" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
+I'm a Computer Science undergraduate at **BITS Pilani (2028)** who likes turning ambitious ideas into working software.
 
-<a href="mailto:ramu7maddirla@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
+I enjoy the parts that make engineering interesting: figuring out an unclear problem, connecting systems that weren't designed to talk to each other, chasing bugs across services, and making AI behave predictably.
 
-<a href="https://instagram.com/ramuuu.m" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
-</a>
-
-<a href="https://pitchiq-ai.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</p>
+- 🧠 Interested in **backend systems, applied AI, agentic workflows, and real-time applications**
+- 🛠️ I usually work across **Java, Python, JavaScript/TypeScript, React, Spring Boot, Node.js, and FastAPI**
+- 🧩 **1,600+ DSA problems** solved on InterviewBit
+- 🎯 Current engineering philosophy: **AI suggests. Deterministic code validates. Users stay in control.**
 
 ---
 
-# 💻 Tech Stack
+## Things I've built
 
-### 👨‍💻 Languages
+### 🌉 [SETU.ai — Real-Time Multilingual Voice Coordination](https://github.com/Ramu-9/Sethu)
+
+**A voice-first coordination prototype for high-stress, multilingual workflows.**
+
+Built a real-time pipeline connecting browser audio processing, voice activity detection, streaming speech services, AI reasoning, and a Python orchestration backend.
+
+- 7-language voice workflow with streaming speech-to-text and text-to-speech
+- React 19 + TypeScript, Node.js WebSocket gateway, Python FastAPI/asyncio
+- Silero VAD with ONNX Runtime WebAssembly, Gemini structured reasoning
+- Pre-roll audio buffering, interruption handling, request deduplication, deterministic fallback, and audit events
+- PostgreSQL + PostGIS for location-aware workflow logic
+
+[**Source code**](https://github.com/Ramu-9/Sethu) · [**Live preview**](https://ais-pre-3gbhjctjktnswx6fxkrs7c-123461625038.asia-east1.run.app)
+
+<sub>Safety boundary: SETU.ai is a prototype, not connected to India's official 112 system. All fleet, dispatch, and ETA data is simulated.</sub>
+
+---
+
+### 🛒 [SmartKart — AI-Powered Commerce & Buyer Protection](https://github.com/Ramu-9/SmartKart)
+
+**Tell it what you're trying to buy. Get a plan, not just a list of SKUs.**
+
+Built a commerce platform that turns natural-language goals and budgets into editable product bundles, then helps users review purchases and negotiate offers.
+
+- React 19, Node.js, Express 5, MongoDB/Mongoose
+- Gemini structured outputs with a deterministic fallback engine
+- Catalogue and stock validation; recommendations stay proposals until user approval
+- Smart Purchase Check, contextual cross-selling, and discounts capped at 15%
+- Razorpay payment workflow with server-side HMAC-SHA256 verification and replay protection
+
+[**Source code**](https://github.com/Ramu-9/SmartKart) · [**Live demo**](https://smartkart-ai.vercel.app)
+
+---
+
+### 🏏 [PitchIQ — Cricket Analytics & Monte Carlo Simulation](https://github.com/Ramu-9/PitchIQ)
+
+**Cricket, with a probability engine doing the overthinking.**
+
+Built a cricket analytics platform that runs **10,000 Monte Carlo simulations per match state** and turns deterministic outputs into contextual insights.
+
+- Java 21 simulation engine with weighted sampling using TreeMap/NavigableMap
+- Spring Boot REST APIs and Spring Data JPA
+- Match-data integration and a CSV probability-calibration pipeline
+- Gemini commentary grounded in the simulation engine's outputs
+
+[**Source code**](https://github.com/Ramu-9/PitchIQ) · [**Live demo**](https://pitchiq-ai.vercel.app)
+
+---
+
+## Tools I reach for
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css,mysql,bash,linux"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,spring,fastapi,postgres,mongodb,mysql,docker,git,github" alt="Technology stack" />
 </p>
 
-### ⚛️ Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind"/>
-<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi"/>
-</p>
-
-### ☁️ Cloud & Deployment
-
-<p>
-<img src="https://skillicons.dev/icons?i=firebase,gcp,vercel,docker"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-</p>
-
-### 🤖 AI & Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
-
-### 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vscode"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-</p>
+**Also worked with:** WebSockets, REST APIs, PostgreSQL/PostGIS, Gemini API, ONNX Runtime WebAssembly, Silero VAD, JWT, HMAC-SHA256, Razorpay, Postman.
 
 ---
 
-# 🚀 Featured Project
+## A few things I believe
 
-## 🏏 PitchIQ
-
-**AI-powered Full-Stack Cricket Analytics Platform**
-
-Designed and built using **React, Spring Boot, SQL, REST APIs, and Gemini AI** to deliver AI-powered cricket insights through a scalable full-stack architecture.
-
-🌐 **Live Demo:** https://pitchiq-ai.vercel.app
+- A demo is exciting. A system that survives edge cases is more exciting.
+- AI output is a proposal, not a source of truth.
+- Good debugging starts when you stop blaming the last service that logged an error.
+- The README is part of the product. Yes, I really do write them this long.
 
 ---
 
-# 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ramu-9&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
-</p>
+### Find me around the internet
 
-<p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Ramu-9&theme=radical&hide_border=false" />
-</p>
+[LinkedIn](https://www.linkedin.com/in/r7mu) · [GitHub](https://github.com/Ramu-9) · [Email](mailto:ramu7maddirala@gmail.com)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramu-9&theme=radical&hide_border=false&layout=compact" />
-</p>
+<sub>Thanks for stopping by. Pick a repo, open the README, and break something thoughtfully. ☕</sub>
 
----
-
-# 🔥 Currently Exploring
-
-- 🤖 AI Agents & LLM Applications
-- ⚙️ Backend Engineering
-- 🌐 Full-Stack Development
-- 🏗️ System Design
-- ☁️ Cloud & Distributed Systems
-
----
-
-# ☕ Philosophy
-
-```java
-while (learning) {
-    build();
-    breakThings();
-    fixThings();
-    repeat();
-}
-```
-
-> **"Great software isn't built by knowing every technology. It's built by continuously learning, experimenting, and improving."**
-
----
-
-<p align="center">
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-</p>
+</div>
