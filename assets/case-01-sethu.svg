@@ -1,0 +1,78 @@
+<svg aria-label="Case file 1, SETHU.ai, a simulated voice prototype that is not connected to 112. The intern is cut off mid-sentence when the caller interrupts, and playback stops locally in 0.2 to 1.5 milliseconds as measured in tests." role="img" viewBox="0 0 900 480" xmlns="http://www.w3.org/2000/svg">
+ <title>Case file 1, SETHU.ai, a simulated voice prototype that is not connected to 112. The intern is cut off mid-sentence when the caller interrupts, and playback stops locally in 0.2 to 1.5 milliseconds as measured in tests.</title>
+ <style>.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+.s{font-family:Georgia,"Times New Roman",serif}
+.i{font-style:italic}.b{font-weight:700}
+.st{transform-origin:0 0;animation:slam .6s cubic-bezier(.2,.9,.3,1) .6s both}
+@keyframes slam{0%{opacity:0;transform:scale(2.6)}65%{opacity:1;transform:scale(.93)}100%{opacity:1;transform:scale(1)}}
+.strike{stroke-dasharray:1;animation:draw .5s ease-out 1.3s both}
+.ck{stroke-dasharray:1;animation:draw .45s ease-out both}
+@keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+.bar{transform-box:fill-box;transform-origin:center;animation:pulse 1.2s ease-in-out infinite}@keyframes pulse{0%,100%{transform:scaleY(1)}50%{transform:scaleY(.35)}}.cut{animation:blink 1.6s steps(2,jump-none) infinite}@keyframes blink{50%{opacity:.35}}</style>
+ <rect x="3" y="3" width="894" height="474" rx="18" fill="#F7F1E3" stroke="#1E1B2E" stroke-width="4"/>
+ <rect x="380" width="140" height="22" rx="9" fill="#1E1B2E"/>
+ <text class="m b" x="40" y="62" fill="#1E1B2E" font-size="22" letter-spacing="2">CASE FILE 01 · SETHU.ai</text>
+ <text class="m" x="860" y="62" fill="#6F6A5A" font-size="19" text-anchor="end">7 languages · real-time voice</text>
+ <line x1="40" x2="860" y1="82" y2="82" stroke="#1E1B2E" stroke-dasharray="6 6" stroke-width="2"/>
+ <rect x="600" y="98" width="260" height="34" rx="6" fill="none" stroke="#C62F2F" stroke-width="3"/>
+ <text class="m b" x="730" y="121" fill="#C62F2F" font-size="18" letter-spacing="1" text-anchor="middle">SIMULATION · NOT 112</text>
+ <text class="m b" x="40" y="130" fill="#6F6A5A" font-size="18" letter-spacing="3">THE INTERN WAS SAYING</text>
+ <text class="s i" x="40" y="188" fill="#1E1B2E" font-size="38">“As I was saying, in</text>
+ <text class="s i" x="40" y="234" fill="#1E1B2E" font-size="38">the event of a—”</text>
+ <g transform="translate(700 215)">
+  <g class="st" style="animation-delay:0.9s">
+   <g transform="rotate(6)">
+    <rect x="-155" y="-32" width="310" height="64" rx="8" fill="#F7F1E3" fill-opacity=".6" stroke="#C62F2F" stroke-width="6"/>
+    <text class="m b" y="11.2" fill="#C62F2F" font-size="32" letter-spacing="3" text-anchor="middle">INTERRUPTED</text>
+   </g>
+  </g>
+ </g>
+ <rect class="bar" x="40" y="321.5" width="9" height="47" rx="4.5" fill="#0F766E" style="animation-delay:-0.89s"/>
+ <rect class="bar" x="58.6" y="303.5" width="9" height="83" rx="4.5" fill="#0F766E" style="animation-delay:-1.13s"/>
+ <rect class="bar" x="77.2" y="293" width="9" height="104" rx="4.5" fill="#0F766E" style="animation-delay:-1.11s"/>
+ <rect class="bar" x="95.8" y="307.5" width="9" height="75" rx="4.5" fill="#0F766E" style="animation-delay:-0.56s"/>
+ <rect class="bar" x="114.4" y="291" width="9" height="108" rx="4.5" fill="#0F766E" style="animation-delay:-0.78s"/>
+ <rect class="bar" x="133" y="306" width="9" height="78" rx="4.5" fill="#0F766E" style="animation-delay:-0.14s"/>
+ <rect class="bar" x="151.6" y="319" width="9" height="52" rx="4.5" fill="#0F766E" style="animation-delay:-0.30s"/>
+ <rect class="bar" x="170.2" y="304.5" width="9" height="81" rx="4.5" fill="#0F766E" style="animation-delay:-0.69s"/>
+ <rect class="bar" x="188.8" y="308.5" width="9" height="73" rx="4.5" fill="#0F766E" style="animation-delay:-0.26s"/>
+ <rect class="bar" x="207.4" y="302" width="9" height="86" rx="4.5" fill="#0F766E" style="animation-delay:-1.10s"/>
+ <rect class="bar" x="226" y="298" width="9" height="94" rx="4.5" fill="#0F766E" style="animation-delay:-0.19s"/>
+ <rect class="bar" x="244.6" y="312.5" width="9" height="65" rx="4.5" fill="#0F766E" style="animation-delay:-0.17s"/>
+ <rect class="bar" x="263.2" y="312.5" width="9" height="65" rx="4.5" fill="#0F766E" style="animation-delay:-0.15s"/>
+ <rect class="bar" x="281.8" y="313" width="9" height="64" rx="4.5" fill="#0F766E" style="animation-delay:-1.05s"/>
+ <rect class="bar" x="300.4" y="303" width="9" height="84" rx="4.5" fill="#0F766E" style="animation-delay:-0.26s"/>
+ <rect class="bar" x="319" y="286.5" width="9" height="117" rx="4.5" fill="#0F766E" style="animation-delay:-1.05s"/>
+ <rect class="bar" x="337.6" y="311" width="9" height="68" rx="4.5" fill="#0F766E" style="animation-delay:-1.15s"/>
+ <rect class="bar" x="356.2" y="320.5" width="9" height="49" rx="4.5" fill="#0F766E" style="animation-delay:-0.81s"/>
+ <rect class="bar" x="374.8" y="315.5" width="9" height="59" rx="4.5" fill="#0F766E" style="animation-delay:-1.13s"/>
+ <rect class="bar" x="393.4" y="295.5" width="9" height="99" rx="4.5" fill="#0F766E" style="animation-delay:-1.16s"/>
+ <rect class="bar" x="412" y="286" width="9" height="118" rx="4.5" fill="#0F766E" style="animation-delay:-0.36s"/>
+ <rect class="bar" x="430.6" y="303" width="9" height="84" rx="4.5" fill="#0F766E" style="animation-delay:-0.20s"/>
+ <rect class="bar" x="449.2" y="317" width="9" height="56" rx="4.5" fill="#0F766E" style="animation-delay:-0.08s"/>
+ <rect class="bar" x="467.8" y="323" width="9" height="44" rx="4.5" fill="#0F766E" style="animation-delay:-0.72s"/>
+ <rect class="bar" x="486.4" y="316.5" width="9" height="57" rx="4.5" fill="#0F766E" style="animation-delay:-0.81s"/>
+ <rect class="bar" x="505" y="301.5" width="9" height="87" rx="4.5" fill="#0F766E" style="animation-delay:-0.37s"/>
+ <rect class="bar" x="523.6" y="288" width="9" height="114" rx="4.5" fill="#0F766E" style="animation-delay:-0.58s"/>
+ <rect x="542.2" y="341" width="9" height="8" rx="4" fill="#6F6A5A" fill-opacity=".45"/>
+ <rect x="560.8" y="341" width="9" height="8" rx="4" fill="#6F6A5A" fill-opacity=".45"/>
+ <rect x="579.4" y="341" width="9" height="8" rx="4" fill="#6F6A5A" fill-opacity=".45"/>
+ <rect x="598" y="341" width="9" height="8" rx="4" fill="#6F6A5A" fill-opacity=".45"/>
+ <rect x="616.6" y="341" width="9" height="8" rx="4" fill="#6F6A5A" fill-opacity=".45"/>
+ <rect x="635.2" y="341" width="9" height="8" rx="4" fill="#6F6A5A" fill-opacity=".45"/>
+ <rect x="653.8" y="341" width="9" height="8" rx="4" fill="#6F6A5A" fill-opacity=".45"/>
+ <rect x="672.4" y="341" width="9" height="8" rx="4" fill="#6F6A5A" fill-opacity=".45"/>
+ <rect x="691" y="341" width="9" height="8" rx="4" fill="#6F6A5A" fill-opacity=".45"/>
+ <rect x="709.6" y="341" width="9" height="8" rx="4" fill="#6F6A5A" fill-opacity=".45"/>
+ <rect x="728.2" y="341" width="9" height="8" rx="4" fill="#6F6A5A" fill-opacity=".45"/>
+ <rect x="746.8" y="341" width="9" height="8" rx="4" fill="#6F6A5A" fill-opacity=".45"/>
+ <rect x="765.4" y="341" width="9" height="8" rx="4" fill="#6F6A5A" fill-opacity=".45"/>
+ <rect x="784" y="341" width="9" height="8" rx="4" fill="#6F6A5A" fill-opacity=".45"/>
+ <rect x="802.6" y="341" width="9" height="8" rx="4" fill="#6F6A5A" fill-opacity=".45"/>
+ <rect x="821.2" y="341" width="9" height="8" rx="4" fill="#6F6A5A" fill-opacity=".45"/>
+ <rect x="839.8" y="341" width="9" height="8" rx="4" fill="#6F6A5A" fill-opacity=".45"/>
+ <line class="cut" x1="537.5" x2="537.5" y1="268" y2="424" stroke="#C62F2F" stroke-dasharray="8 6" stroke-width="4"/>
+ <text class="m b" x="551.5" y="292" fill="#C62F2F" font-size="20">caller cuts in</text>
+ <text class="m" x="450" y="462" fill="#1E1B2E" font-size="20" text-anchor="middle">local audio cutoff: 0.2–1.5 ms (measured in tests)</text>
+</svg>
