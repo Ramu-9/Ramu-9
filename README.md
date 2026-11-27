@@ -1,137 +1,133 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/Ramu-9/Ramu-9/main/assets/ramu-banner.svg" width="100%" alt="Ramu.exe profile banner" />
+  <img src="https://raw.githubusercontent.com/Ramu-9/Ramu-9/main/assets/review-banner.svg" width="100%" alt="Performance review form. Employee: the LLM, very enthusiastic. Reviewer: Ramu Maddirala. Brilliant intern. Zero admin rights. AI proposes; boring, testable code decides." />
+</div>
+
+**Ramu Maddirala.** Computer Science student at BITS Pilani (2028). I build backend-heavy, full-stack and AI-powered systems, and I'm interested in SDE, backend, full-stack and applied AI roles.
+
+`Java` `Python` `TypeScript` `Spring Boot` `FastAPI` `Node.js` `React` `PostgreSQL / PostGIS` `MongoDB` `WebSockets` `Docker`
+&nbsp;·&nbsp; 1,600+ DSA problems solved
+
+[LinkedIn](https://www.linkedin.com/in/r7mu) &nbsp;·&nbsp; [Email](mailto:ramu7maddirala@gmail.com) &nbsp;·&nbsp; [GitHub](https://github.com/Ramu-9)
+
+---
+
+## Meet the intern
+
+Every project below has an LLM in it. I treat it like a very fast intern: wonderful at first drafts, with no reliable sense of when it is wrong.
+
+So in each system the model is allowed to **propose**. Plain code (validated, capped, logged, tested) **decides**. Three case files, three times the intern got overruled.
 
 <br/>
 
-<a href="https://www.linkedin.com/in/r7mu"><img src="https://img.shields.io/badge/LinkedIn-Come_say_hi-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-<a href="mailto:ramu7maddirala@gmail.com"><img src="https://img.shields.io/badge/Email-Open_inbox-EA4335?style=for-the-badge&logo=gmail" /></a>
-<a href="https://github.com/Ramu-9"><img src="https://img.shields.io/badge/GitHub-You're_already_here-181717?style=for-the-badge&logo=github" /></a>
-</div>
+## Case file 01: the intern listens, the audit log remembers
 
----
+<a href="https://github.com/Ramu-9/Sethu"><img src="https://raw.githubusercontent.com/Ramu-9/Ramu-9/main/assets/case-01-sethu.svg" width="100%" alt="Case file 1, SETU.ai. A multilingual voice prototype, not connected to 112. A caller interrupts and local playback stops in 0.2 to 1.5 milliseconds in measured tests." /></a>
 
-### The human behind the commits
+**[SETU.ai](https://github.com/Ramu-9/Sethu)** (*Setu* means bridge) is a real-time, multilingual voice coordination prototype for high-stress workflows. It connects browser audio, streaming speech services, AI reasoning and a deterministic Python orchestrator.
 
-I'm Ramu, a Computer Science student at BITS Pilani (2028). I like building software where several things have to work together: services, data, users, APIs, and occasionally my last remaining brain cell.
+- Browser audio runs through an `AudioWorklet` at 16 kHz with a 1.5-second pre-roll buffer to preserve recent audio around speech onset; Silero VAD runs in WebAssembly
+- Barge-in: when the caller interrupts, local playback stops in 0.2 to 1.5 ms in measured test conditions
+- Every fact extracted by the LLM must cite the utterance it came from. Revised statements are recorded as contradictions
+- Dispatch decisions are deterministic, never LLM-chosen, and the audit log is append-only, enforced by a PostgreSQL trigger
+- If the LLM times out or gets rate-limited, a deterministic seven-language fallback keeps the session alive
 
-I move between backend engineering, applied AI and full-stack product work. I especially enjoy taking a vague problem, finding the actual moving parts, and making the whole workflow behave.
+[Read the code](https://github.com/Ramu-9/Sethu) &nbsp;·&nbsp; [Open the preview](https://ais-pre-3gbhjctjktnswx6fxkrs7c-123461625038.asia-east1.run.app)
 
-**Current loadout:** Java · Python · TypeScript · React · Spring Boot · Node.js · FastAPI · SQL
+<details>
+<summary>Open the case file (stack and engineering notes)</summary>
 
-- 🧠 1,600+ DSA problems solved on InterviewBit
-- 🧪 AI is my copilot. It does not get merge approval automatically.
-- 🔍 Interested in agentic workflows, real-time systems, integrations and reliability.
-- ☕ Debugging status: depends on how recently the logs were opened.
+<br/>
 
-> **Personal engineering loop:** Build → Break → Read logs → Fix → Add a test → Accidentally find another edge case.
+React 19 + TypeScript, Node.js WebSocket gateway, Python FastAPI + asyncio, Gemini structured reasoning, PostgreSQL + PostGIS + pg_trgm. Compact provenance prompting reduced prompt tokens by 46% over a 12-turn test call (4,288 vs 7,940). The repository documents 77 automated tests (68 Python, 9 TypeScript).
 
----
+</details>
 
-## Three projects. Three different rabbit holes.
+<sub>Research prototype. Not connected to India's 112 system or any emergency service. Vehicles, depots, assignments, routes, hospitals and ETAs are simulated.</sub>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
-### 🌉 SETU.ai
-**A voice pipeline with a coordination problem to solve.**
+## Case file 02: the intern suggests, the server signs the receipt
 
-A multilingual, real-time voice coordination prototype. It connects browser audio, speech services, AI reasoning and backend orchestration into one workflow.
+<a href="https://github.com/Ramu-9/SmartKart"><img src="https://raw.githubusercontent.com/Ramu-9/Ramu-9/main/assets/case-02-smartkart.svg" width="100%" alt="Case file 2, SmartKart. The intern suggests a 50 percent discount. The server caps it at 15 percent." /></a>
 
-**Under the hood**
-- 7-language speech workflow
-- React 19 + TypeScript
-- Node.js WebSocket gateway
-- Python FastAPI + asyncio
-- Silero VAD + ONNX Runtime WebAssembly
-- Gemini structured reasoning
-- PostgreSQL + PostGIS
-- Pre-roll buffering, interruption handling, deduplication, deterministic fallback and audit events
+**[SmartKart](https://github.com/Ramu-9/SmartKart)** is an e-commerce platform for people who have a goal and a budget instead of a SKU. Type "quiet work-from-home desk under ₹15,000", get an editable bundle, and nothing touches your cart until you approve it.
 
-<a href="https://github.com/Ramu-9/Sethu"><img src="https://img.shields.io/badge/READ_THE_CODE-181717?style=for-the-badge&logo=github" /></a>
-<a href="https://ais-pre-3gbhjctjktnswx6fxkrs7c-123461625038.asia-east1.run.app"><img src="https://img.shields.io/badge/OPEN_PREVIEW-0F766E?style=for-the-badge&logo=googlecloud" /></a>
+- Discount negotiation is hard-capped at 15% on the server and bound to a SHA-256 hash of the cart. Change the cart and the offer is invalidated
+- Smart Purchase Check reviews cart items and suggests alternatives
+- Razorpay payments use server-side HMAC-SHA256 verification and replay protection
+- Gemini returns structured output, while a deterministic fallback handles unavailable or unreliable model responses
 
-<sub>Research prototype only. Not connected to India's official 112 service; fleet, dispatch and ETA data are simulated.</sub>
-</td>
-<td width="50%" valign="top">
+[Read the code](https://github.com/Ramu-9/SmartKart) &nbsp;·&nbsp; [Try it](https://smartkart-ai.vercel.app)
 
-### 🛒 SmartKart
-**Shopping by intent, not by SKU memory.**
+<details>
+<summary>Open the case file (stack)</summary>
 
-An AI-powered commerce platform that turns a user's goal and budget into an editable shopping bundle, then helps check the cart before checkout.
+<br/>
 
-**Under the hood**
-- React 19 + Node.js + Express 5
-- MongoDB + Mongoose
-- Gemini structured outputs
-- Deterministic recommendation fallback
-- User approval before cart mutation
-- Smart Purchase Check + contextual cross-sell
-- Server-enforced discount rules
-- Razorpay HMAC-SHA256 verification + replay protection
+React 19, Vite, Node.js, Express 5, MongoDB + Mongoose, JWT authentication, Razorpay, Gemini structured outputs and a deterministic commerce fallback engine.
 
-<a href="https://github.com/Ramu-9/SmartKart"><img src="https://img.shields.io/badge/READ_THE_CODE-181717?style=for-the-badge&logo=github" /></a>
-<a href="https://smartkart-ai.vercel.app"><img src="https://img.shields.io/badge/TRY_SMARTKART-0F766E?style=for-the-badge&logo=vercel" /></a>
+</details>
 
-</td>
-</tr>
-<tr>
-<td colspan="2">
+<br/>
 
-### 🏏 PitchIQ
-**10,000 possible match stories. One probability engine.**
+## Case file 03: the intern narrates, the math decides
 
-A cricket analytics platform powered by a Java 21 Monte Carlo simulation engine. It runs 10,000 iterations per match state and keeps AI commentary grounded in deterministic results.
+<a href="https://github.com/Ramu-9/PitchIQ"><img src="https://raw.githubusercontent.com/Ramu-9/Ramu-9/main/assets/case-03-pitchiq.svg" width="100%" alt="Case file 3, PitchIQ. The intern predicts a home-team win. The deterministic Monte Carlo engine runs 10,000 simulated endings per match state." /></a>
 
-**Under the hood**
-- Java 21 + Spring Boot + Spring Data JPA
-- TreeMap / NavigableMap weighted sampling
-- Match-data integration
-- CSV probability-calibration pipeline
-- Gemini commentary bounded by simulation outputs
+**[PitchIQ](https://github.com/Ramu-9/PitchIQ)** is a cricket analytics platform. A Java 21 Monte Carlo engine plays out 10,000 possible endings for a match state, and Gemini writes commentary about the computed numbers. It never guesses the score.
 
-<a href="https://github.com/Ramu-9/PitchIQ"><img src="https://img.shields.io/badge/READ_THE_CODE-181717?style=for-the-badge&logo=github" /></a>
-<a href="https://pitchiq-ai.vercel.app"><img src="https://img.shields.io/badge/WATCH_IT_PLAY-0F766E?style=for-the-badge&logo=vercel" /></a>
+- Weighted sampling on a `TreeMap` / `NavigableMap`, making each selection O(log N)
+- A mutable `MatchState` keeps allocations flat inside the simulation loop
+- Clean Architecture: the simulation engine has zero Spring dependencies
+- Win probabilities use historical ball-by-ball data through a CSV calibration pipeline
 
-</td>
-</tr>
-</table>
+[Read the code](https://github.com/Ramu-9/PitchIQ) &nbsp;·&nbsp; [Watch it play](https://pitchiq-ai.vercel.app)
 
----
+<details>
+<summary>Open the case file (stack)</summary>
 
-## The workbench
+<br/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,spring,fastapi,postgres,mongodb,mysql,docker,git,github,linux" alt="Languages and tools" />
-</p>
+Java 21, Spring Boot, Spring Data JPA, MySQL (production) / H2 (local), vanilla JavaScript + Chart.js frontend, and Gemini for the narration layer only.
 
-<p align="center">
-<img src="https://img.shields.io/badge/AI-Gemini%20%7C%20LLM%20integrations-8E75B2?style=flat-square" />
-<img src="https://img.shields.io/badge/Realtime-WebSockets-0F766E?style=flat-square" />
-<img src="https://img.shields.io/badge/Data-PostGIS%20%7C%20SQL-336791?style=flat-square" />
-<img src="https://img.shields.io/badge/Security-JWT%20%7C%20HMAC--SHA256-2E8B57?style=flat-square" />
-</p>
+</details>
 
----
+<br/>
 
-## Engineering principles (currently non-negotiable)
+## Employee handbook (excerpt)
 
-| Situation | My default reaction |
+| The intern may | The intern may not |
 |---|---|
-| LLM returns a confident answer | "Cool. Where's the validation?" |
-| API returns 200 | Check whether the actual workflow succeeded. |
-| Bug crosses three services | Follow the data, not the blame. |
-| Feature works only on the happy path | Congratulations, you've met the demo. Now test it. |
-| README needs an update | Apparently, today is that day. |
+| Narrate a match from numbers the engine already computed | Predict the score |
+| Propose a shopping bundle and ask for a discount | Add to the cart without approval, or exceed the 15% cap |
+| Extract facts from a caller's words, with citations | Choose which unit gets dispatched, or edit the audit log |
+
+<br/>
+
+## Reviewer's notes
+
+I like software where several moving parts have to agree: services, data, users, APIs, and occasionally my last remaining brain cell. Give me a vague problem and I'll go looking for the actual moving parts.
+
+> **My loop:** Build → Break → Read logs → Fix → Add a test → Accidentally find another edge case.
+
+<details>
+<summary>Performance review of the reviewer (optional)</summary>
+
+<br/>
+
+- **Debugging status:** depends on how recently the logs were opened.
+- **Trust in an LLM answer:** "Cool. Where's the validation?"
+- **Trust in an API that returned 200:** pending proof that the workflow actually succeeded.
+- **Known weakness:** says "done", then finds three more edge cases.
+
+</details>
+
+<br/>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Ramu-9/Ramu-9/main/assets/review-outcome.svg" width="100%" alt="Review outcome: keep the intern, deny production access, write the tests anyway." />
 
-### Current terminal output
+  **Got a messy problem worth solving? That's usually where I start having fun.**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2600&pause=800&color=5EEAD4&center=true&vCenter=true&width=600&lines=%24+build+--ambitious;STATUS%3A+compiling+the+idea...;%24+test+--edge-cases;STATUS%3A+found+three+more.;%24+ship;STATUS%3A+learning+in+production." alt="Terminal status animation" />
-
-**Have a messy problem worth solving? That's usually where I start having fun.**
-
-<a href="mailto:ramu7maddirala@gmail.com">ramu7maddirala@gmail.com</a>
-
+  [Email me](mailto:ramu7maddirala@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/r7mu)
 </div>
