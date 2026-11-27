@@ -1,0 +1,136 @@
+<svg aria-label="Case file 3, PitchIQ. The intern said the home team wins by 12, trust me. Overruled. The Monte Carlo engine runs 10,000 simulated endings per match state." role="img" viewBox="0 0 900 480" xmlns="http://www.w3.org/2000/svg">
+ <title>Case file 3, PitchIQ. The intern said the home team wins by 12, trust me. Overruled. The Monte Carlo engine runs 10,000 simulated endings per match state.</title>
+ <style>.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+.s{font-family:Georgia,"Times New Roman",serif}
+.i{font-style:italic}.b{font-weight:700}
+.st{transform-origin:0 0;animation:slam .6s cubic-bezier(.2,.9,.3,1) .6s both}
+@keyframes slam{0%{opacity:0;transform:scale(2.6)}65%{opacity:1;transform:scale(.93)}100%{opacity:1;transform:scale(1)}}
+.strike{stroke-dasharray:1;animation:draw .5s ease-out 1.3s both}
+.ck{stroke-dasharray:1;animation:draw .45s ease-out both}
+@keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+.ta{animation:ta 5s infinite}.am{animation:am 5s infinite}@keyframes ta{0%,35%{fill:#0F766E}45%,85%{fill:#E08A1E}95%,100%{fill:#0F766E}}@keyframes am{0%,35%{fill:#E08A1E}45%,85%{fill:#0F766E}95%,100%{fill:#E08A1E}}</style>
+ <rect x="3" y="3" width="894" height="474" rx="18" fill="#F7F1E3" stroke="#1E1B2E" stroke-width="4"/>
+ <rect x="380" width="140" height="22" rx="9" fill="#1E1B2E"/>
+ <text class="m b" x="40" y="62" fill="#1E1B2E" font-size="22" letter-spacing="2">CASE FILE 03 · PITCHIQ</text>
+ <text class="m" x="860" y="62" fill="#6F6A5A" font-size="19" text-anchor="end">Java 21 · Spring Boot</text>
+ <line x1="40" x2="860" y1="82" y2="82" stroke="#1E1B2E" stroke-dasharray="6 6" stroke-width="2"/>
+ <text class="m b" x="40" y="130" fill="#6F6A5A" font-size="18" letter-spacing="3">THE INTERN SAID</text>
+ <text class="s i" x="40" y="184" fill="#1E1B2E" font-size="38">“Home team wins by 12.</text>
+ <text class="s i" x="40" y="230" fill="#1E1B2E" font-size="38">Trust me.”</text>
+ <path class="strike" d="m40 171h408" fill="none" stroke="#C62F2F" stroke-linecap="round" stroke-width="5" pathLength="1"/>
+ <path class="strike" d="m40 217h192" fill="none" stroke="#C62F2F" stroke-linecap="round" stroke-width="5" pathLength="1"/>
+ <g transform="translate(255 296)">
+  <g class="st" style="animation-delay:1.0s">
+   <g transform="rotate(-8)">
+    <rect x="-130" y="-30" width="260" height="60" rx="8" fill="#F7F1E3" fill-opacity=".6" stroke="#C62F2F" stroke-width="6"/>
+    <text class="m b" y="10.5" fill="#C62F2F" font-size="30" letter-spacing="3" text-anchor="middle">OVERRULED</text>
+   </g>
+  </g>
+ </g>
+ <text class="m b" x="40" y="366" fill="#6F6A5A" font-size="18" letter-spacing="3">THE MATH SAID</text>
+ <text class="m b" x="40" y="438" fill="#0F766E" font-size="82">10,000</text>
+ <text class="m b" x="350" y="404" fill="#1E1B2E" font-size="25">simulated</text>
+ <text class="m b" x="350" y="434" fill="#1E1B2E" font-size="25">endings</text>
+ <circle cx="536" cy="118" r="13" fill="#0F766E"/>
+ <circle cx="569" cy="118" r="13" fill="#E08A1E"/>
+ <circle cx="602" cy="118" r="13" fill="#0F766E"/>
+ <circle cx="635" cy="118" r="13" fill="#0F766E"/>
+ <circle cx="668" cy="118" r="13" fill="#E08A1E"/>
+ <circle cx="701" cy="118" r="13" fill="#0F766E"/>
+ <circle cx="734" cy="118" r="13" fill="#0F766E"/>
+ <circle class="am" cx="767" cy="118" r="13" fill="#E08A1E" style="animation-delay:-4.91s"/>
+ <circle cx="800" cy="118" r="13" fill="#E08A1E"/>
+ <circle class="am" cx="833" cy="118" r="13" fill="#E08A1E" style="animation-delay:-0.08s"/>
+ <circle class="ta" cx="536" cy="151" r="13" fill="#0F766E" style="animation-delay:-0.95s"/>
+ <circle class="ta" cx="569" cy="151" r="13" fill="#0F766E" style="animation-delay:-2.32s"/>
+ <circle cx="602" cy="151" r="13" fill="#0F766E"/>
+ <circle cx="635" cy="151" r="13" fill="#0F766E"/>
+ <circle cx="668" cy="151" r="13" fill="#0F766E"/>
+ <circle class="ta" cx="701" cy="151" r="13" fill="#0F766E" style="animation-delay:-4.99s"/>
+ <circle cx="734" cy="151" r="13" fill="#E08A1E"/>
+ <circle cx="767" cy="151" r="13" fill="#E08A1E"/>
+ <circle cx="800" cy="151" r="13" fill="#0F766E"/>
+ <circle cx="833" cy="151" r="13" fill="#0F766E"/>
+ <circle cx="536" cy="184" r="13" fill="#0F766E"/>
+ <circle cx="569" cy="184" r="13" fill="#0F766E"/>
+ <circle class="am" cx="602" cy="184" r="13" fill="#E08A1E" style="animation-delay:-1.05s"/>
+ <circle cx="635" cy="184" r="13" fill="#E08A1E"/>
+ <circle cx="668" cy="184" r="13" fill="#E08A1E"/>
+ <circle cx="701" cy="184" r="13" fill="#0F766E"/>
+ <circle class="am" cx="734" cy="184" r="13" fill="#E08A1E" style="animation-delay:-0.44s"/>
+ <circle cx="767" cy="184" r="13" fill="#0F766E"/>
+ <circle class="am" cx="800" cy="184" r="13" fill="#E08A1E" style="animation-delay:-1.23s"/>
+ <circle class="ta" cx="833" cy="184" r="13" fill="#0F766E" style="animation-delay:-3.99s"/>
+ <circle cx="536" cy="217" r="13" fill="#0F766E"/>
+ <circle class="ta" cx="569" cy="217" r="13" fill="#0F766E" style="animation-delay:-3.66s"/>
+ <circle cx="602" cy="217" r="13" fill="#0F766E"/>
+ <circle cx="635" cy="217" r="13" fill="#0F766E"/>
+ <circle class="ta" cx="668" cy="217" r="13" fill="#0F766E" style="animation-delay:-4.85s"/>
+ <circle cx="701" cy="217" r="13" fill="#E08A1E"/>
+ <circle class="am" cx="734" cy="217" r="13" fill="#E08A1E" style="animation-delay:-1.97s"/>
+ <circle cx="767" cy="217" r="13" fill="#E08A1E"/>
+ <circle cx="800" cy="217" r="13" fill="#0F766E"/>
+ <circle class="ta" cx="833" cy="217" r="13" fill="#0F766E" style="animation-delay:-3.86s"/>
+ <circle cx="536" cy="250" r="13" fill="#0F766E"/>
+ <circle class="ta" cx="569" cy="250" r="13" fill="#0F766E" style="animation-delay:-2.91s"/>
+ <circle cx="602" cy="250" r="13" fill="#0F766E"/>
+ <circle cx="635" cy="250" r="13" fill="#0F766E"/>
+ <circle cx="668" cy="250" r="13" fill="#E08A1E"/>
+ <circle cx="701" cy="250" r="13" fill="#E08A1E"/>
+ <circle class="ta" cx="734" cy="250" r="13" fill="#0F766E" style="animation-delay:-4.54s"/>
+ <circle class="am" cx="767" cy="250" r="13" fill="#E08A1E" style="animation-delay:-0.95s"/>
+ <circle cx="800" cy="250" r="13" fill="#E08A1E"/>
+ <circle cx="833" cy="250" r="13" fill="#0F766E"/>
+ <circle cx="536" cy="283" r="13" fill="#E08A1E"/>
+ <circle class="ta" cx="569" cy="283" r="13" fill="#0F766E" style="animation-delay:-0.19s"/>
+ <circle class="am" cx="602" cy="283" r="13" fill="#E08A1E" style="animation-delay:-3.52s"/>
+ <circle cx="635" cy="283" r="13" fill="#0F766E"/>
+ <circle cx="668" cy="283" r="13" fill="#E08A1E"/>
+ <circle cx="701" cy="283" r="13" fill="#0F766E"/>
+ <circle class="ta" cx="734" cy="283" r="13" fill="#0F766E" style="animation-delay:-2.80s"/>
+ <circle cx="767" cy="283" r="13" fill="#E08A1E"/>
+ <circle cx="800" cy="283" r="13" fill="#0F766E"/>
+ <circle cx="833" cy="283" r="13" fill="#0F766E"/>
+ <circle class="ta" cx="536" cy="316" r="13" fill="#0F766E" style="animation-delay:-0.88s"/>
+ <circle cx="569" cy="316" r="13" fill="#0F766E"/>
+ <circle cx="602" cy="316" r="13" fill="#0F766E"/>
+ <circle cx="635" cy="316" r="13" fill="#E08A1E"/>
+ <circle cx="668" cy="316" r="13" fill="#E08A1E"/>
+ <circle class="am" cx="701" cy="316" r="13" fill="#E08A1E" style="animation-delay:-0.18s"/>
+ <circle cx="734" cy="316" r="13" fill="#0F766E"/>
+ <circle cx="767" cy="316" r="13" fill="#E08A1E"/>
+ <circle cx="800" cy="316" r="13" fill="#0F766E"/>
+ <circle cx="833" cy="316" r="13" fill="#0F766E"/>
+ <circle cx="536" cy="349" r="13" fill="#0F766E"/>
+ <circle cx="569" cy="349" r="13" fill="#0F766E"/>
+ <circle cx="602" cy="349" r="13" fill="#E08A1E"/>
+ <circle cx="635" cy="349" r="13" fill="#E08A1E"/>
+ <circle cx="668" cy="349" r="13" fill="#E08A1E"/>
+ <circle cx="701" cy="349" r="13" fill="#0F766E"/>
+ <circle cx="734" cy="349" r="13" fill="#E08A1E"/>
+ <circle cx="767" cy="349" r="13" fill="#0F766E"/>
+ <circle cx="800" cy="349" r="13" fill="#E08A1E"/>
+ <circle cx="833" cy="349" r="13" fill="#E08A1E"/>
+ <circle cx="536" cy="382" r="13" fill="#E08A1E"/>
+ <circle cx="569" cy="382" r="13" fill="#0F766E"/>
+ <circle cx="602" cy="382" r="13" fill="#E08A1E"/>
+ <circle cx="635" cy="382" r="13" fill="#E08A1E"/>
+ <circle cx="668" cy="382" r="13" fill="#E08A1E"/>
+ <circle cx="701" cy="382" r="13" fill="#0F766E"/>
+ <circle cx="734" cy="382" r="13" fill="#0F766E"/>
+ <circle cx="767" cy="382" r="13" fill="#0F766E"/>
+ <circle class="ta" cx="800" cy="382" r="13" fill="#0F766E" style="animation-delay:-3.49s"/>
+ <circle cx="833" cy="382" r="13" fill="#0F766E"/>
+ <circle class="am" cx="536" cy="415" r="13" fill="#E08A1E" style="animation-delay:-0.06s"/>
+ <circle cx="569" cy="415" r="13" fill="#0F766E"/>
+ <circle class="ta" cx="602" cy="415" r="13" fill="#0F766E" style="animation-delay:-4.53s"/>
+ <circle cx="635" cy="415" r="13" fill="#E08A1E"/>
+ <circle cx="668" cy="415" r="13" fill="#E08A1E"/>
+ <circle class="am" cx="701" cy="415" r="13" fill="#E08A1E" style="animation-delay:-2.15s"/>
+ <circle cx="734" cy="415" r="13" fill="#E08A1E"/>
+ <circle cx="767" cy="415" r="13" fill="#E08A1E"/>
+ <circle cx="800" cy="415" r="13" fill="#E08A1E"/>
+ <circle cx="833" cy="415" r="13" fill="#0F766E"/>
+ <text class="m" x="701" y="466" fill="#6F6A5A" font-size="17" text-anchor="middle">each dot ≈ 100 of them</text>
+</svg>
