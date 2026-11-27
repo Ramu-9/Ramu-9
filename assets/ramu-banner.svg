@@ -24,7 +24,7 @@
   <path d="M0 286C180 238 286 342 472 288S760 220 920 276s194 34 280-8V360H0Z" fill="#55e6c1" opacity=".045"/>
   <rect x="44" y="38" width="6" height="276" rx="3" fill="url(#accent)"/>
   <text x="78" y="76" fill="#7be8cb" font-family="monospace" font-size="15" letter-spacing="3">INDEPENDENT BUILDER / INDIA</text>
-  <text x="72" y="176" fill="#f4f7fb" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="90" letter-spacing="-4">RAMU<span fill="#72e7c6">.EXE</span></text>
+  <text x="72" y="176" fill="#f4f7fb" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="90" letter-spacing="-4">RAMU<tspan fill="#72e7c6">.EXE</tspan></text>
   <text x="80" y="221" fill="#d1dce8" font-family="Arial, Helvetica, sans-serif" font-size="24">Backend systems  ·  Applied AI  ·  Real-time products</text>
   <text x="80" y="274" fill="#91a5b9" font-family="monospace" font-size="16">I build the workflow. Then I test the edge cases.</text>
   <g transform="translate(800 68)">
